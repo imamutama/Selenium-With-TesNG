@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-04T15:36:48Z" name="Default suite" finished-at="2020-11-04T15:37:35Z" duration-ms="47466">
+    <groups>
+    </groups>
+    <test started-at="2020-11-04T15:36:48Z" name="Default test" finished-at="2020-11-04T15:37:35Z" duration-ms="47466">
+      <class name="Kitabisa_SeleniumTestNG.Kitabisa_SeleniumTestNG.Pembayaran">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Kitabisa_SeleniumTestNG.Kitabisa_SeleniumTestNG.Pembayaran@4032d386]" started-at="2020-11-04T22:36:48Z" name="openBrowser" finished-at="2020-11-04T22:36:59Z" duration-ms="10767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="selectCampaign()[pri:0, instance:Kitabisa_SeleniumTestNG.Kitabisa_SeleniumTestNG.Pembayaran@4032d386]" started-at="2020-11-04T22:36:59Z" name="selectCampaign" finished-at="2020-11-04T22:37:05Z" duration-ms="6488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCampaign -->
+        <test-method signature="inputPembayaran()[pri:0, instance:Kitabisa_SeleniumTestNG.Kitabisa_SeleniumTestNG.Pembayaran@4032d386]" started-at="2020-11-04T22:37:05Z" name="inputPembayaran" finished-at="2020-11-04T22:37:19Z" duration-ms="13581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputPembayaran -->
+        <test-method signature="closeBack()[pri:0, instance:Kitabisa_SeleniumTestNG.Kitabisa_SeleniumTestNG.Pembayaran@4032d386]" started-at="2020-11-04T22:37:19Z" name="closeBack" finished-at="2020-11-04T22:37:34Z" duration-ms="15194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBack -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Kitabisa_SeleniumTestNG.Kitabisa_SeleniumTestNG.Pembayaran@4032d386]" started-at="2020-11-04T22:37:34Z" name="quit" finished-at="2020-11-04T22:37:35Z" duration-ms="1414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Kitabisa_SeleniumTestNG.Kitabisa_SeleniumTestNG.Pembayaran -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
